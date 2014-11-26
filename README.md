@@ -1,4 +1,6 @@
-LibreOffice_GettingStarted
+LibreOffice GettingStarted
 ==========================
 
 Для совместной работы над Кратким руководством по LibreOffice
+
+Пока перевожу документацию в Markdown все что выложено в 
